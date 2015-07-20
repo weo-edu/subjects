@@ -6,12 +6,13 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "@weo-edu/schema-tag": "^0.1.2",
-    "@weo-edu/validate": "^2.12.4"
+
   },
   "devDependencies": {
     "mocha": "2.x",
-    "standard": "^4.0.0"
+    "standard": "^4.0.0",
+    "@weo-edu/schema-tag": "^0.1.2",
+    "@weo-edu/validate": "^2.12.4"
   },
   "engines": {
     "node": "~0.10.38",
