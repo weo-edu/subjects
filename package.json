@@ -5,14 +5,12 @@
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@weo-edu/schema-tag": "^0.1.3",
+    "@weo-edu/validate": "^2.12.4",
     "mocha": "2.x",
-    "standard": "^4.0.0",
-    "@weo-edu/schema-tag": "^0.1.2",
-    "@weo-edu/validate": "^2.12.4"
+    "standard": "^4.0.0"
   },
   "engines": {
     "node": "~0.10.38",
