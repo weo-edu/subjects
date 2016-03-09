@@ -2,7 +2,7 @@
   "name": "@weo-edu/subjects",
   "description": "Subject tags",
   "repository": "git://github.com/weo-edu/subjects.git",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {},
